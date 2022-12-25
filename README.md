@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sandeepreddybaddam
-- 👀 I’m interested in robotics
-- 🌱 I’m currently learning perception and control
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in robotics, especially towards autonomy.
+- 🌱 I’m currently doing research on planning and control
+- 📫 You can reach me at sandeep240599@gmail.com
 
 <!---
 sandeepreddybaddam/sandeepreddybaddam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
