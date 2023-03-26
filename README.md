@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandeepreddybaddam
 - 👀 I’m interested in robotics, especially towards autonomy.
-- 🌱 I’m currently doing research on planning and control
+- 🌱 I’m currently doing research in planning and control
 - 📫 You can reach me at sandeep240599@gmail.com
 
 <!---
